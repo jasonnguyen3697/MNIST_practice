@@ -1,3 +1,6 @@
 __pycache__
 *.h5
 *.zip
+*.csv
+.idea
+.ipynb_checkpoints
